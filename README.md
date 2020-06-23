@@ -1,0 +1,2 @@
+# Friendly-discord-bot
+boi
